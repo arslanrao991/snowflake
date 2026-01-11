@@ -1,0 +1,12 @@
+{
+  "op": "d",
+  "source": 
+  {
+    "db": "postgres",
+    "table": "orders"
+  },
+  "before": 
+  {
+    "order_id": "O003"
+  }
+}

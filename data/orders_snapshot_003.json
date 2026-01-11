@@ -1,0 +1,13 @@
+{
+  "op": "r",
+  "source": {
+    "db": "postgres",
+    "table": "orders"
+  },
+  "after": {
+    "order_id": "O003",
+    "customer_id": "C001",
+    "amount": 200,
+    "order_ts": "2026-01-01 12:00:00"
+  }
+}
